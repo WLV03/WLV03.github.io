@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['tvanlaar/Biehleretal', 'tvanlaar/CHSPMicrobiome'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['WLV03/Biehleretal', 'WLV03/CHSPMicrobiome'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -52,12 +52,12 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Tricia Van Laar',
+    title: 'Portfolio of William Lofing-Vigil',
     description: '',
     imageURL: '',
   },
   social: {
-    linkedin: 'tvanlaar',
+    linkedin: '',
     x: '',
     mastodon: '',
     researchGate: '',
@@ -74,9 +74,9 @@ const CONFIG = {
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://tvanlaar.github.io',
+    website: 'https://WLV03.github.io',
     phone: '',
-    email: 'tvanlaar@csustan.edu',
+    email: 'Wlofingvigil@csustan.edu',
   },
   resume: {
     fileUrl:
