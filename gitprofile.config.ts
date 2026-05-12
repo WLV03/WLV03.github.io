@@ -33,17 +33,17 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'Transcriptome Project',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Analyzed a Promicromonospora Sample from Dr. Thao's Research Lab',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+          link: 'https://github.com/WLV03/BIOL4810/tree/main/module4/Transcriptome',
         },
         {
-          title: 'Project Name',
+          title: 'WIP',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Much to be added soon!',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
@@ -138,13 +138,13 @@ const CONFIG = {
   ],
   publications: [
     {
-      title: 'Publication Title',
+      title: 'Genome Analysis of Sutterella wadsworthensis',
       conferenceName: '',
-      journalName: 'Journal Name',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
+      journalName: 'Microbiology Resource Announcements',
+      authors: 'Diego Acosta, Carlos Nunez, Imaan Heer, Philip Yousip, William Lofing-Vigil',
+      link: 'Still in Peer Review',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        'Genomic Analysis of Sutterella wadsworthensis using tools like Abricate, AntiSmash, PathogenFinder, and more.',
     },
     {
       title: 'Publication Title',
